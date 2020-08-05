@@ -5,3 +5,5 @@ SSR SERVER SIDE RENDERING BLOG / APP - NODE.JS - EXPRESS - LODASH - EJS - MONGOO
 1. $ git clone https://github.com/KKCrypto/node-ejs-mongodb.git
 
 2. $ npm install
+
+3. $ nodemon app
